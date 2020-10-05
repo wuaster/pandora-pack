@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Pandora Pack",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "Let's do something. Together.",
     "siteUrl": "https://foundation.stackrole.com",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@aster_wu"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
